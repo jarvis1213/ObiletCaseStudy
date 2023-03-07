@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 28 14:23:08 TRT 2022
+netty-common-4.1.84.Final.jar>central=
+netty-common-4.1.84.Final-sources.jar>central=
+netty-common-4.1.84.Final.pom>central=

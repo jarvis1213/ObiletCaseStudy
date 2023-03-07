@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 28 14:23:10 TRT 2022
+opentelemetry-exporter-logging-1.19.0-sources.jar>central=
+opentelemetry-exporter-logging-1.19.0.pom>central=
+opentelemetry-exporter-logging-1.19.0.jar>central=
